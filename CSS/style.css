@@ -1,0 +1,17 @@
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+h1,
+h3 {
+    color: orange;
+}
+
+.btn {
+    background: orange !important;
+    border-color: orange;
+}
